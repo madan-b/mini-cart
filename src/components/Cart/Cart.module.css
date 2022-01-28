@@ -1,0 +1,44 @@
+.cartContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 350px;
+    height: 350px;
+    border: 1px solid;  
+    padding: 10px;
+    position: absolute;
+    top: 50px;
+    right: 0;
+}
+
+.cartTitle {
+    padding: 10px;
+    background-color: #f0e6e6;
+    font-weight: bold;  
+}
+
+.subTotalActionsContainer {
+    border-top: 1px solid #ebe8e8;  
+    margin: 10px;
+}
+
+.totalContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 10px 0 20px 0;
+}
+
+.subTotal {
+    display: flex;
+    justify-content: space-between;
+}
+
+.actionsContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.subTotal {
+    font-weight: bold;
+}

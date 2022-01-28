@@ -1,0 +1,30 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+  background-color: silver;
+  align-items: center;
+}
+
+.cartIconContainer {
+  display: flex;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.cartIcon {
+  width: 30px;
+  height: 30px;
+}
+
+.count {
+  padding: 2px 3px ;
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+}
+
+.instruction {
+  text-align: center;
+  margin-top: 50px;
+}

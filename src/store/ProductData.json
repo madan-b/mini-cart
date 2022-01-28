@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "productName": "boAt headphone",
+            "image": "",
+            "quantity": 2,
+            "price": 499,
+            "description": "10 mm driver headphone"
+        },
+        {
+            "id": 2,
+            "productName": "realme 8",
+            "image": "",
+            "quantity": 1,
+            "price": 14999,
+            "description": "6/128GB mobile"
+        },
+        {
+            "id": 3,
+            "productName": "hp mouse",
+            "image": "",
+            "quantity": 1,
+            "price": 349,
+            "description": "a hp wired mouse"
+        }
+    ]
+}
